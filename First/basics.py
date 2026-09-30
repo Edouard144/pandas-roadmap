@@ -1,3 +1,8 @@
+import utils.net
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 import pandas as pd
 
 df = pd.read_csv("sample_applicants.csv")
